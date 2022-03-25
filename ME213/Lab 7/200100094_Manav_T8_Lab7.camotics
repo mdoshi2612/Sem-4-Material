@@ -1,0 +1,25 @@
+{
+      "units": "metric",
+      "resolution-mode": "medium",
+      "resolution": 1,
+      "tools": {
+        "1": {
+          "units": "metric",
+          "shape": "cylindrical",
+          "length": 25,
+          "diameter": 10,
+          "description": ""
+        }
+      },
+      "workpiece": {
+        "automatic": false,
+        "margin": 5,
+        "bounds": {
+          "min": [0, 0, -25],
+          "max": [100, 80, 0]
+        }
+      },
+      "files": [
+        "200100094_Manav_T8_Lab7.nc"
+      ]
+    }

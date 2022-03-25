@@ -1,0 +1,25 @@
+{
+      "units": "metric",
+      "resolution-mode": "medium",
+      "resolution": 1,
+      "tools": {
+        "1": {
+          "units": "metric",
+          "shape": "cylindrical",
+          "length": 20,
+          "diameter": 5,
+          "description": ""
+        }
+      },
+      "workpiece": {
+        "automatic": false,
+        "margin": 5,
+        "bounds": {
+          "min": [0, 0, -10],
+          "max": [90, 60, 0]
+        }
+      },
+      "files": [
+        "Kaivaly_200100078_ME213Lab6.nc"
+      ]
+    }

@@ -1,0 +1,40 @@
+{
+      "units": "metric",
+      "resolution-mode": "manual",
+      "resolution": 0.175,
+      "tools": {
+        "1": {
+          "units": "metric",
+          "shape": "cylindrical",
+          "length": 50,
+          "diameter": 10,
+          "description": ""
+        },
+        "2": {
+          "units": "metric",
+          "shape": "snubnose",
+          "length": 5,
+          "diameter": 20,
+          "snub_diameter": 10,
+          "description": ""
+        },
+        "3": {
+          "units": "metric",
+          "shape": "ballnose",
+          "length": 50,
+          "diameter": 20,
+          "description": ""
+        }
+      },
+      "workpiece": {
+        "automatic": false,
+        "margin": 5,
+        "bounds": {
+          "min": [0, 0, -45],
+          "max": [120, 120, 0]
+        }
+      },
+      "files": [
+        "200100094_Manav_T8_Lab10.nc"
+      ]
+    }

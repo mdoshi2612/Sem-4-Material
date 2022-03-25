@@ -1,0 +1,32 @@
+{
+      "units": "metric",
+      "resolution-mode": "medium",
+      "resolution": 1,
+      "tools": {
+        "1": {
+          "units": "metric",
+          "shape": "cylindrical",
+          "length": 25,
+          "diameter": 6,
+          "description": ""
+        },
+        "2": {
+          "units": "metric",
+          "shape": "cylindrical",
+          "length": 25,
+          "diameter": 10,
+          "description": ""
+        }
+      },
+      "workpiece": {
+        "automatic": false,
+        "margin": 6,
+        "bounds": {
+          "min": [0, 0, -15],
+          "max": [100, 100, 0]
+        }
+      },
+      "files": [
+        "..\\Lab 9\\newfile.nc"
+      ]
+    }
